@@ -11,7 +11,7 @@ Second-year bsc software development student at [atu galway](https://www.atu.ie/
 
 **[CS Lite](https://github.com/CiaranMccarthy1/cs_lite)** — csgo/valorant style fps shooter built with c++/raylib for low end hardware
 
-**[Boba text](https://github.com/CiaranMccarthy1/Boba-Text)** — tui based text editor inspired by vim and nano
+**[Predictly](https://github.com/CiaranMccarthy1/Predictly)** — high-performance Go engine designed for prediction market arbitrage
 
 
 ---
