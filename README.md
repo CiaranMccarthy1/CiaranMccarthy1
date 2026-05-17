@@ -1,17 +1,17 @@
 # Hey, I'm Ciaran 
 
-Second-year bsc software development student at [atu galway](https://www.atu.ie/) intrested in low level systems, machine learning and quantitive trading
+Second-year bsc software development student at [Atu Galway](https://www.atu.ie/) intrested in low level systems, machine learning and quantitive trading
 ---
 
 ## what i'm working on
 
-**[Order-Book-Flux](https://github.com/CiaranMccarthy1/Order-Book-Flux)** — rust program tracking order flow imbalance.
+**[Order-Book-Flux](https://github.com/CiaranMccarthy1/Order-Book-Flux)** — Rust program tracking order flow imbalance.
 
-**[Go-Torch](https://github.com/CiaranMccarthy1/Go-Torch)** — deep learning framework I built in go.
+**[Go-Torch](https://github.com/CiaranMccarthy1/Go-Torch)** — Deep learning framework I built in go.
 
-**[CS Lite](https://github.com/CiaranMccarthy1/cs_lite)** — csgo/valorant style fps shooter built with c++/raylib for low end hardware
+**[Hamiltonian-chaos](https://github.com/CiaranMccarthy1/hamiltonian-chaos)** — Double pendulam simulation measuring the boundary between predictable and chaotic regions
 
-**[Predictly](https://github.com/CiaranMccarthy1/Predictly)** — high-performance Go engine designed for prediction market arbitrage
+**[Gohper Load](https://github.com/CiaranMccarthy1/GopherLoad)** —  HTTP reverse proxy and load balancer
 
 
 ---
