@@ -1,6 +1,6 @@
 # Hey, I'm Ciaran 
 
-Second-year bsc software development student at [Atu Galway](https://www.atu.ie/) intrested in low level systems, machine learning and quantitive trading
+Second-year bsc software development student at [Atu Galway](https://www.atu.ie/) intrested in Low level systems, Machine learning and Quantitative trading
 ---
 
 ## what i'm working on
