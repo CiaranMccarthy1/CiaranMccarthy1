@@ -11,7 +11,7 @@ Second-year bsc software development student at [Atu Galway](https://www.atu.ie/
 
 **[Hamiltonian-chaos](https://github.com/CiaranMccarthy1/hamiltonian-chaos)** — Double pendulam simulation measuring the boundary between predictable and chaotic regions
 
-**[Gohper Load](https://github.com/CiaranMccarthy1/GopherLoad)** —  HTTP reverse proxy and load balancer
+**[Shrink](https://github.com/CiaranMccarthy1/shrink)** —  Command-line tool that compresses terminal output for AI agents with lazy expansion.
 
 
 ---
