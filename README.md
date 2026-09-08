@@ -1,15 +1,15 @@
 # Hey, I'm Ciaran 
 
-Second-year bsc software development student at [Atu Galway](https://www.atu.ie/) intrested in Low level systems, Machine learning and Quantitative trading
+Third-year BSC Software Development student at [Atu Galway](https://www.atu.ie/) intrested in Low level systems, Machine learning and Quantitative trading
 ---
 
 ## what i'm working on
 
+**[CalderaDB](https://github.com/CiaranMccarthy1/CalderaDB)** — Access-aware, tiered NoSQL document database
+
 **[Order-Book-Flux](https://github.com/CiaranMccarthy1/Order-Book-Flux)** — Rust program tracking order flow imbalance.
 
 **[Go-Torch](https://github.com/CiaranMccarthy1/Go-Torch)** — Deep learning framework I built in go.
-
-**[Hamiltonian-chaos](https://github.com/CiaranMccarthy1/hamiltonian-chaos)** — Double pendulam simulation measuring the boundary between predictable and chaotic regions
 
 **[Shrink](https://github.com/CiaranMccarthy1/shrink)** —  Command-line tool that compresses terminal output for AI agents with lazy expansion.
 
