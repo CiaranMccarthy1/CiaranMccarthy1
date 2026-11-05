@@ -1,6 +1,6 @@
 # Hey, I'm Ciaran 
 
-Third-year BSC Software Development student at [Atu Galway](https://www.atu.ie/) interested in Low level systems, Machine learning and Cloud compluting
+Third-year BSC Software Development student at [Atu Galway](https://www.atu.ie/) interested in Low level systems, Machine learning and Cloud computing 
 ---
 
 ## what i'm working on
