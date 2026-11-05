@@ -1,17 +1,17 @@
 # Hey, I'm Ciaran 
 
-Third-year BSC Software Development student at [Atu Galway](https://www.atu.ie/) intrested in Low level systems, Machine learning and Quantitative trading
+Third-year BSC Software Development student at [Atu Galway](https://www.atu.ie/) interested in Low level systems, Machine learning and Cloud compluting
 ---
 
 ## what i'm working on
 
 **[CalderaDB](https://github.com/CiaranMccarthy1/CalderaDB)** — Access-aware, tiered NoSQL document database
 
+**[Go-Torch](https://github.com/CiaranMccarthy1/Go-Torch)** — Deep learning framework inspired by py-torch
+
 **[Order-Book-Flux](https://github.com/CiaranMccarthy1/Order-Book-Flux)** — Rust program tracking order flow imbalance.
 
-**[Go-Torch](https://github.com/CiaranMccarthy1/Go-Torch)** — Deep learning framework I built in go.
-
-**[Shrink](https://github.com/CiaranMccarthy1/shrink)** —  Command-line tool that compresses terminal output for AI agents with lazy expansion.
+**[Gopher-Load](https://github.com/CiaranMccarthy1/GopherLoad)** —  L7 HTTP reverse proxy and load balancer written in Go.
 
 
 ---
